@@ -65,7 +65,7 @@ public class ArreglosNombres {
             System.out.println((i + 1) + ". " + primerNombre[i] + " " + segundoNombre[i] + " " + primerApellido[i] + " " + segundoApellido[i]);
         }
 
-        System.out.print("Ingrese el numero de la persona que quieres ver (1- " + cantidad + "): ");
+        System.out.print("Digite el numero de la persona que deseas ver (1- " + cantidad + "): ");
         seleccion = teclado.nextInt();
         teclado.nextLine(); 
 
