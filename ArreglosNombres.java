@@ -10,8 +10,6 @@ package arreglosnombres;
  */
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class ArreglosNombres {
 
     public static void main(String[] args) {
